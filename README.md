@@ -4,6 +4,6 @@ This is my attempt at trying out the challenging algorithms listed down in [Aust
 - [x] Topological sort
 - [ ] Recursive descent parsing
 - [ ] Myers string difference
-- [ ] Bloom filter
+- [x] Bloom filter
 - [ ] Piece table
 - [ ] Splay tree
