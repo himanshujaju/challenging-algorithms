@@ -5,5 +5,5 @@ This is my attempt at trying out the challenging algorithms listed down in [Aust
 - [ ] Recursive descent parsing
 - [ ] Myers string difference
 - [x] Bloom filter
-- [ ] Piece table
+- [x] Piece table
 - [ ] Splay tree
